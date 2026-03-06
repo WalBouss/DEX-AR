@@ -1,0 +1,8 @@
+torch>=1.11
+transformers==4.45
+einops
+opencv-python
+matplotlib
+numpy
+Pillow
+accelerate
