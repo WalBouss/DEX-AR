@@ -112,6 +112,7 @@ If you find this repository useful, please consider citing our work :pencil: and
 @article{bousselham2026dexar,
   author    = {Bousselham, Walid and Boggust, Angie and Strobelt, Hendrik and Kuehne, Hilde},
   title     = {DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models},
+  journal   = {arXiv preprint arXiv:2603.06302},
   year      = {2026},
 }
 ```
