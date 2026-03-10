@@ -1,13 +1,16 @@
 # DEX-AR
 
-### Explainability for Autoregressive Vision-Language Models
+### [Explainability for Autoregressive Vision-Language Models](https://walidbousselham.com/)
 
-_[Walid Bousselham](http://walidbousselham.com/)<sup>1</sup>, [Angie Boggust](http://angieboggust.com/)<sup>2</sup>, [Hendrik Strobelt](http://hendrik.strobelt.com/)<sup>3,4</sup> and [Hilde Kuehne](https://hildekuehne.github.io/)<sup>1,3</sup>_
+_[Walid Bousselham](https://walidbousselham.com/)<sup>1</sup>, [Angie Boggust](http://angieboggust.com/)<sup>2</sup>, [Hendrik Strobelt](http://hendrik.strobelt.com/)<sup>3,4</sup> and [Hilde Kuehne](https://hildekuehne.github.io/)<sup>1,3</sup>_
 
 <sup>1</sup> Tuebingen AI Center & University of Tuebingen,
 <sup>2</sup> MIT CSAIL,
 <sup>3</sup> MIT-IBM Watson AI Lab,
 <sup>4</sup> IBM Research.
+
+<a href="https://arxiv.org/abs/2603.06302"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://walidbousselham.com/DEX-AR"><img src="https://img.shields.io/badge/Project-Website-red"></a>
 
 DEX-AR is an explainability method for autoregressive Vision-Language Models (VLMs) such as LLaVA. It produces spatial heatmaps that highlight which image regions the model relies on when generating each token of its response.
 
